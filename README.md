@@ -1,0 +1,1 @@
+"# Mavinzu-Blazor_Static" 
